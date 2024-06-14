@@ -180,7 +180,7 @@ After Using bubble sort:
 ```
 
 
-##### Recursive Bubble Sort Algorithm - Summary for Revision
+## Recursive Bubble Sort Algorithm - Summary for Revision
 
 ---
 
