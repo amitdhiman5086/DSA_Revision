@@ -102,7 +102,7 @@ After selection sort:
 
 - **Time Complexity:** `O(N^2)` for best, worst, and average cases.
   - The outer loop runs `N-1` times.
-  - The inner loop runs from `i` to `N-1`, leading to a total of \(\frac{N(N-1)}{2}\) comparisons.
+  - The inner loop runs from `i` to `N-1`, leading to a total of ((N-1(N))/2) comparisons.
 
 - **Space Complexity:** `O(1)` (in-place sorting).
 
